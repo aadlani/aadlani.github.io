@@ -1,0 +1,20 @@
+- short_title: "Bachelor's Degree in computer science"
+  kind: education
+  diploma: "Bachelor's Degree in computer science - Specialty Web Development"
+  started_on: 01/09/2005
+  period: "Sept. 05 - Sept. 06"
+  school: "IUT Charlemagne - Nancy 2 University"
+  description: "This professional Bachelor's Degree allows students used to program to specialize in designing and developing Web applications on the client and the server side both. Interfacing with third party applications (databases, directories, electronic mail) is a second important aspect of the training."
+
+- short_title: "IT 2 years technical degree"
+  diploma: "IT 2 years technical degree - Specialty Software Engineering"
+  period: "Sept. 03 - Jul. 05"
+  school: "IUT Charlemagne - Nancy 2 University"
+  description: "Two-year diploma from a university institute of technology. The IT department trains for a general bac+2 level with strong theoretical and practical courses that enable them to adapt to the evolving Information Technologies industry." 
+
+- short_title: "Scientific Baccalaureate"
+  diploma: "Scientific Baccalaureate - Specialty Engineering Sciences"
+  period: "September 2002 - July 2003"
+  school: "Pierre Bayle High School"
+  description: ""
+

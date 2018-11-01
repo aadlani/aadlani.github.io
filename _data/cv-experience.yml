@@ -1,0 +1,118 @@
+- kind: experience
+  title: CHIEF INFORMATION OFFICER
+  period: Feb. 2016 – Present
+  company: vyzVoice S.A
+  location: WINDHOF, LUX
+  logo: /assets/images/logos/vyzvoice.png
+  company_url: 'https://www.vyzvoice.com'
+
+  description: >-
+    Introduced agile methodologies and software engineering best practices. Designed 
+    the software factory to optimize the time to market, with focus on the automated 
+    CI/CD and product quality. Improved the resilience and the security of the cloud 
+    based infrastructure with high availability design and automated server 
+    provisioning (DTAG Security Compliant). Decreased the reliance on the cloud 
+    provider from PaaS to IaaS which enabled an on-premise solution. Oversaw the 
+    transition from monolithic application to micro-services.
+  responsibilities:
+    - Lead the execution of technologic strategy for our platforms and partnerships.
+    - Build and manage an engineering group and oversee research and development.
+    - Anticipate and react to major technology changes to ensure the competitively.
+    - Establish technical standards and ensure adherence to them for product development.
+
+- kind: experience
+  title: Chief Technical Officer
+  period: Jan. 2009 - Jan. 2016 | 7 yrs. 1 mo.
+  company: EuroDNS S.A
+  location: LEUDELANGE, LUX
+  logo: /assets/images/logos/eurodns.png
+  company_url: 'https://www.eurodns.com'
+  description: >-
+    Hired, trained, and supervised over 30 software engineers. Oversaw the overall 
+    engineering architecture, design execution, IT, project management, and staffing. 
+    Successfully implemented agile methodology in software engineering and product 
+    management.
+  responsibilities:
+    - Lead the execution of technologic strategy for our platforms and partnerships.
+    - Build and manage a development team and oversee research and development.
+    - Provide visible leadership for the company within the technology community.
+    - Anticipate and react to major technology changes to ensure the competitively.
+    - Establish technical standards and ensure adherence to them for product development.
+
+- kind: experience
+  title: Software architect
+  period: Dec. 2006 – Dec. 2008 | 2 yrs. 1 mo.
+  company: EuroDNS S.A
+  logo: /images/logos/eurodns.png
+  company_url: 'http://www.eurodns.com'
+  description: >-
+    Conceived a new version of the domain name availability service, and 
+    improved the performance to handle 10x more searches than the former 
+    version while being able to manage more top-level domain, and enabling 
+    live reload of the configurations files. Managed the architecture and 
+    the migration of the homemade PHP framework used for the e- commerce 
+    to an MVC framework, replaced the payment provider and introduced 
+    real-time domain name search.
+  responsibilities:
+    - Assist in the design, coding, and testing of technical solutions.
+    - Apply knowledge of industry trends and developments to improve service to our clients.
+    - Identify system deficiencies and recommends solutions.
+    - Anticipate on technological evolutions
+    - Build durable architectures
+    - Promote genericity and abstraction
+    - Bridge between developers, project managers, and business experts
+    - Technological evangelization
+    - Ensure the technical directions and choices
+
+- kind: experience
+  title: Software Analyst
+  started_on: 01/04/2006
+  ended_at: 30/08/2006
+  period: April 2006 - August 2006  (5 months)
+  company: INIST
+  logo: /images/logos/inist.gif
+  company_url: 'http://www.inist.fr/'
+  description: >-
+    My mission for the French INIST was to developed OpenSIGLE based on MIT
+    software DSpace and to convert and load the old record from the "System for
+    Information on Grey Literature in Europe" database in a simplified XML
+    format following the DublinCore format.
+  responsibilities:
+    - >-
+      Write a software that convert from the proprietary format to XML (dublin
+      core)
+    - >-
+      Deploy and configure a DSPace portal and adapt it to the requirement
+      (JSP/Servlet)
+    - Document the procedure for the other department
+
+- kind: experience
+  title: Software Developer
+  started_on: 01/04/2005
+  ended_at: 01/06/2005
+  period: April 2005 - June 2005  (3 months)
+  company: Kleber - Michelin group
+  company_url: 'http://www.kleber.fr/'
+  logo: /images/logos/kleber.jpg
+  description: >-
+    When Kleber was bought by Michelin, they established that all the PC should
+    now run on Windows XP. Since 1/4 of there automates dated from 1968 they are
+    no compatible software available. My mission was to create a .NET
+    application that should run on Windows XP and could allow agent to encode
+    and transfer tires recipes to the automates
+  responsibilities:
+    - Write an application to edit automate recipes to make tires
+    - >-
+      Add ability to the software to encode and transfer the recipes via RS232
+      on DB25
+    - Document the protocol
+  
+- kind: experience
+  title: Software Developer
+  started_on: 01/04/2004
+  ended_at: 31/07/2004
+  period: April 2004 - July 2004  (4 months)
+  company: Comexale
+  logo: /images/logos/comexale.png
+  company_url: 'http://www.comexale.com/'
+  description: 
