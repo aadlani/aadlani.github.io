@@ -434,7 +434,7 @@ Sponsored, Infrastructure
       <th>Type</th>
       <th>Description</th>
       <th>Example</th>
-    <tr>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -462,7 +462,6 @@ Sponsored, Infrastructure
       <td>
         The infrastructure TLDs are reserved by IANA for technical purpose and 
         contains only the .arpa top level domain.
-
         For more information about the arpa zone, please refer to <a href="http://www.iana.org/domains/arpa/">the documentation 
         available on IANA's website</a>
       </td>
