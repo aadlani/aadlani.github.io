@@ -3,6 +3,7 @@ layout: post
 title: 10 frequently asked questions about DNS solved with DIG
 author: Anouar
 date: 21/12/2011 07:15
+redirect_to: https://cto.lu/articles/dns-queries-with-dig
 
 illustration:
   src:   /assets/images/posts_illustration/2011-12-21-useful-dig-command-to-troubleshot-your-domains/dig.jpg

@@ -2,8 +2,8 @@
 layout: post
 title: "What's a domain name and what's behind the scene"
 author: Anouar
-
 date: 12/12/2011 22:10
+redirect_to: https://cto.lu/articles/what-is-a-domain-name
 
 illustration:
   src: /assets/images/posts_illustration/2011-12-12-what-is-a-domain-name-and-what-is-behind-the-scene/crime_scene.jpg

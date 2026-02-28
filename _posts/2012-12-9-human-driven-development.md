@@ -3,6 +3,7 @@ layout: post
 title: Human Driven Development
 author: Anouar
 date: 12/12/2012 19:57
+redirect_to: https://cto.lu/articles/
 illustration:
   src: /assets/images/posts_illustration/2012-12-9-human-driven-development/humans.jpg
   title: "Human Driven Development"

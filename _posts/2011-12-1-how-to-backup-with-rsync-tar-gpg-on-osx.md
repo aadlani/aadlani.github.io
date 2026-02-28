@@ -4,6 +4,7 @@ kind: article
 author: Anouar
 title: How to backup with RSYNC, TAR, CRON and GPG
 date: 01/12/2011 22:15
+redirect_to: https://cto.lu/articles/backup-with-rsync
 
 illustration:
   src: /assets/images/posts_illustration/2011-12-1-how-to-backup-with-rsync-tar-gpg-on-osx/backup.png

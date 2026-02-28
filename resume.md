@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+redirect_to: https://cto.lu/cv
 ---
 
 # Software Engineering Executive
